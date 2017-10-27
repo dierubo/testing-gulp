@@ -1,0 +1,19 @@
+{
+  "name": "testing-gulp",
+  "version": "1.0.0",
+  "description": "Automate testing gulp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://dierubo@github.com/dierubo/testing-gulp.git"
+  },
+  "author": "drubio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dierubo/testing-gulp/issues"
+  },
+  "homepage": "https://github.com/dierubo/testing-gulp#readme"
+}
