@@ -15,5 +15,24 @@
   "bugs": {
     "url": "https://github.com/dierubo/testing-gulp/issues"
   },
-  "homepage": "https://github.com/dierubo/testing-gulp#readme"
+  "homepage": "https://github.com/dierubo/testing-gulp#readme",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-beautify": "^2.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-if": "^2.0.2",
+    "gulp-image-optimization": "^0.1.3",
+    "gulp-jshint": "^2.0.4",
+    "gulp-pleeease": "^2.0.2",
+    "gulp-processhtml": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-run-sequence": "^0.3.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "jshint": "^2.9.5",
+    "path": "^0.12.7",
+    "run-sequence": "^2.2.0"
+  }
 }

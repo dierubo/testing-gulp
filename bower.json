@@ -1,0 +1,23 @@
+{
+  "name": "testing-gulp",
+  "description": "Automate testing gulp",
+  "main": "server.js",
+  "authors": [
+    "drubio"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/dierubo/testing-gulp",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "Jquery": "^3.2.1",
+    "html5shiv": "^3.7.3",
+    "respond": "^1.4.2"
+  }
+}
